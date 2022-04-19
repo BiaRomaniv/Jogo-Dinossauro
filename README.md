@@ -15,7 +15,7 @@ O desenvolvimento foi realizado com base na aula do Especialista Celso Henrique.
 Utilizado apenas HTML, CSS e JAVASCRIPT.
 
 ## Implementações extras
-- Criei 4 fases para que aumente a velocidade de aparição dos cactus conforme a contagem de pulos.
+- Criei 4 fases para que aumenta a velocidade de aparição dos cactus conforme a contagem de pulos.
 - Criei a pontuação logo acima da tela
 - Inclui fonte padrão
 - Alterei o ponto de colisão entre os elementos
